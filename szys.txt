@@ -1,7 +1,7 @@
 import random
  
-#四则运算
- 
+
+ #12345
 def szys():
  
     sym = ['＋', '－', '×', '÷']

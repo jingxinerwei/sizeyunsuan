@@ -1,7 +1,7 @@
-# sizeyunsuan
+
 import random
  
-#四则运算
+#四则运算生成
  
 def szys():
  
@@ -51,7 +51,7 @@ def szys():
  
 #输入题目数量并开始生成对应数量的题目
  
-def test():
+def tess():
  
     sym = ['＋', '－', '×', '÷']
  
@@ -92,5 +92,5 @@ def test():
     
     
     
-test(）
+tess(）
 
