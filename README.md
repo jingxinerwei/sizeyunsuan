@@ -89,7 +89,6 @@ def test():
     print('总计得分为：' , j )
     
         
-   
     
     
 test(）
